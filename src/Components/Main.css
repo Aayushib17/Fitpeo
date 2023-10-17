@@ -1,0 +1,75 @@
+*{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ @media (max-width: 600px){
+  
+ }
+}
+.main {
+  background-color:rgb(234, 224, 224);
+    position:absolute;
+    top:0;
+    left: 240px;
+    bottom: 0;
+    right: 0;
+    overflow:hidden;
+}
+.heading {
+   color: #000000;
+   font-size: 24px;
+   font-weight: bold;
+   margin-right: 85%;
+ }
+.mid{
+padding: 20px;
+  display: flex; 
+   justify-content: flex-end; 
+   align-items: center;
+ margin-right: 40px; 
+}
+h2{
+  color: #050505;
+   font-weight: bold;
+   margin-right: 85%;
+   font-size: 19px;
+}
+.Overview h4{
+  font-size: 14px;
+  color: #a2a2a2; 
+   margin-top:0;
+   width:19%;
+
+}
+.Overview{
+   width: 700px;
+   height: 250px;
+   border-radius: 5px;
+   background-color: #ffffff;
+   margin-right: 30px; 
+   padding: 20px; 
+   box-shadow: 0px 10px 30px rgba(40, 48, 63, 0.25);
+
+}
+.Customers h4{
+  font-size: 15px;
+  color: #a2a2a2; 
+   margin:0;
+   width:40%;
+
+}
+.Customers{
+   width: 350px; 
+   border-radius: 5px;
+   background-color: #ffffff;
+   margin: 0;
+   height: 250px;
+   margin-top: 10px;
+   margin-right: 10px;
+   padding: 20px;
+   box-shadow: 0px 10px 30px rgba(40, 48, 63, 0.25);
+}
+.Customers h2{
+  color: #050505;
+   font-weight: bold;
+   margin-right: 70%;
+   font-size: 19px;
+}

@@ -1,0 +1,39 @@
+*{
+  overflow:hidden;
+}
+.Footer{
+    background-color: rgb(255, 255, 255);
+    width:92%;
+    margin-left:50px;
+    box-shadow: 0px 10px 30px rgba(40, 48, 63, 0.25);
+   border-radius: 5px;
+   padding-top: 3px;
+ 
+}
+h3{
+    display: flex;
+    padding-left: 5%;
+}
+table {
+    width: 90%;
+    margin-top: 1%;
+    margin-left: 5%;
+    overflow:hidden;
+  }
+  th{
+    text-align: start;
+  }
+  
+  td {
+    padding: 1px;
+    text-align:start;
+    height: 8px;
+  }
+  img{
+    width: 80px;
+    display:flex;
+    height: 50px;
+    margin-right: 10px;
+    border-radius: 10%;
+  }
+

@@ -1,0 +1,21 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Main{
+    background-color:#00072D ;
+    width: 180px;
+    height: 100%;
+    display:block;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 310px;
+    padding-right: 15px;   
+}
+.sub{
+    display:block;
+}
+.Heading{
+    font-size: 20px;
+    color: aliceblue;
+    margin-right: 5px;
+}
